@@ -1,74 +1,106 @@
-# Nome do Projeto
+# Portfólio Pessoal | Matheus Melo
 
-![Badge de Licença](https://img.shields.io/badge/license-MIT-blue.svg)
-![Badge de Status do Build](https://img.shields.io/github/actions/workflow/status/seu-usuario/seu-repo/main.yml?branch=main)
-![Badge da Última Versão](https://img.shields.io/github/v/release/seu-usuario/seu-repo)
+[![Badge de Licença](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Badge de Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20JS-brightgreen)](matfels/portifolio/Portifolio-main/index.html)
 
-> Um slogan ou descrição curta e impactante do que seu projeto faz.
+> Desenvolvedor **Full-Stack** com foco em resolver problemas de forma criativa. Bem-vindo ao meu portfólio!
 
 <p align="center">
-  <img src="caminho/para/sua/imagem_ou_gif_demo.gif" alt="Demonstração do Projeto" width="700"/>
+  <img src="caminho/para/screenshot.png" alt="Screenshot da tela inicial do Portfólio" width="800"/>
 </p>
+
+---
 
 ## 📖 Sobre o Projeto
 
-Uma descrição mais detalhada do seu projeto. Explique o problema que ele resolve e por que você o criou. Destaque o que o torna especial ou diferente de outras soluções existentes.
+Este é o portfólio pessoal e profissional de **Matheus Melo**, uma página construída com o objetivo de demonstrar habilidades técnicas em desenvolvimento Front-End e apresentar uma visão sobre a jornada de aprendizado em tecnologias Back-End e Mobile.
+
+O projeto é uma página única (Single Page Application - SPA) que inclui seções dedicadas à apresentação pessoal (`Início`), informações detalhadas sobre a experiência e conjunto de habilidades (`Sobre mim`), os serviços oferecidos e projetos desenvolvidos (`Portfólio`), além de um formulário de contato.
 
 ### ✨ Principais Funcionalidades
 
-*   **Funcionalidade 1:** Breve descrição do que essa funcionalidade faz.
-*   **Funcionalidade 2:** Breve descrição do que essa funcionalidade faz.
-*   **Funcionalidade 3:** Breve descrição do que essa funcionalidade faz.
+Baseado nas seções de serviço e estrutura do site:
+
+* **Efeito de Digitação Dinâmico:** Apresentação de cargos com efeito de digitação suave (Dev Back-End, Dev Front-End, Full-Stack).
+* **Design Responsivo:** Layouts que se adaptam perfeitamente a diferentes tamanhos de tela (desktop, tablet, celular).
+* **Navegação Suave e Fixo:** Menu de navegação que se destaca ao rolar (`sticky header`) e marca a seção ativa.
+* **Serviços de Desenvolvimento:** Descrição de ofertas como Criação de Sites, Manutenção e Otimização para Responsividade.
 
 ### 🛠️ Tecnologias Utilizadas
 
-Liste as principais tecnologias, frameworks e ferramentas que você usou para construir o projeto.
+Este projeto foi construído primariamente com as bases do desenvolvimento web e utiliza bibliotecas leves para aprimorar a experiência.
 
-*   [React](https://reactjs.org/)
-*   [Node.js](https://nodejs.org/)
-*   [Python](https://www.python.org/)
-*   [Docker](https://www.docker.com/)
+* **Linguagens Fundamentais:**
+    * HTML5
+    * CSS3
+    * JavaScript
+* **Habilidades e Outras Tecnologias Mencionadas:**
+    * Python
+    * NodeJS
+    * React-Native
+* **Bibliotecas/Frameworks:**
+    * [Typed.js](https://typedjs.com/): Para o efeito de digitação na seção "Início".
+    * [Font Awesome](https://fontawesome.com/): Para os ícones de redes sociais e de serviço.
 
 ---
 
 ## 🚀 Começando
 
-Siga estas instruções para obter uma cópia do projeto em funcionamento na sua máquina local para desenvolvimento e testes.
+Estas instruções permitirão que você obtenha uma cópia do projeto em funcionamento na sua máquina local para visualização ou desenvolvimento. Por ser um site estático, o processo é bastante simples.
 
 ### ✅ Pré-requisitos
 
-Liste tudo o que o usuário precisa ter instalado antes de começar, com links para download ou instalação.
-
-*   [Node.js](https://nodejs.org/en/download/) (versão 18.x ou superior)
-*   [Git](https://git-scm.com/downloads)
+Você só precisará de um navegador web moderno (como Chrome, Firefox, Edge, etc.).
 
 ### ⚙️ Instalação
 
-Um guia passo a passo sobre como configurar o ambiente de desenvolvimento.
-
 1.  **Clone o repositório:**
     ```sh
-    git clone https://github.com/seu-usuario/seu-repo.git
+    git clone [https://github.com/seu-usuario/seu-repo.git](https://github.com/seu-usuario/seu-repo.git)
     ```
 2.  **Navegue até o diretório do projeto:**
     ```sh
     cd seu-repo
-    ```
-3.  **Instale as dependências:**
-    ```sh
-    npm install
-    ```
-    *ou, se usar Yarn:*
-    ```sh
-    yarn install
     ```
 
 ---
 
 ## 🎮 Como Usar
 
-Forneça instruções e exemplos de como usar o seu projeto. Se for uma aplicação web, como iniciá-la? Se for uma API, quais são os endpoints principais?
+Para visualizar o portfólio, basta abrir o arquivo `index.html` em seu navegador:
 
-**Iniciando o servidor de desenvolvimento:**
-```sh
-npm run dev
+1.  Localize o arquivo **`index.html`** no diretório clonado.
+2.  Clique duas vezes no arquivo, ou clique com o botão direito e selecione **"Abrir com..."** e escolha seu navegador preferido.
+
+O site será carregado e você poderá navegar pelas seções: `Início`, `Sobre mim`, `Serviços`, `Portfólio` e `Contato`.
+
+---
+
+## 🤝 Contribuição
+
+Contribuições, issues e sugestões são bem-vindas! Sinta-se à vontade para bifurcar (fork) este repositório e enviar pull requests.
+
+1.  Faça o fork do projeto.
+2.  Crie uma branch para sua funcionalidade (`git checkout -b feature/AmazingFeature`).
+3.  Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`).
+4.  Push para a branch (`git push origin feature/AmazingFeature`).
+5.  Abra um Pull Request.
+
+---
+
+## 📝 Licença
+
+Distribuído sob a licença **MIT License**. Veja `LICENSE` para mais informações.
+
+---
+
+## 📧 Contato
+
+**Matheus Melo** - Seus contatos estão disponíveis nas redes sociais e na seção de contato do portfólio:
+
+* LinkedIn: [matheusferreirademelo](https://www.linkedin.com/in/matheusferreirademelo/)
+* GitHub: [matfels](https://github.com/matfels)
+* Instagram: [matfels_](https://www.instagram.com/matfels_/)
+* E-mail: (A ser adicionado na seção de contato)
+
+Link do Projeto: `[https://seu-usuario.github.io/seu-repo-name/](https://seu-usuario.github.io/seu-repo-name/)` (Substitua pelo link de hospedagem)
